@@ -10,8 +10,6 @@
 **By: Yosri Ghorbel**  
 **Weight: 1**
 
-![Cyber Security](https://hbtn-gallery.s3.eu-central-1.amazonaws.com/CZ2WGOHCYQXCN7LE.png)
-
 </div>
 
 ---
