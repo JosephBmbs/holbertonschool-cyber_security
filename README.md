@@ -1,7 +1,7 @@
 <h1 align="center">Introduction to Cyber Security</h1>
 
 <p align="center">
-  <img src="https://www.itsasap.com/hs-fs/hubfs/cybersecurity%20framework.gif?width=1556&name=cybersecurity%20framework.gif" alt="Cyber Security Banner" />
+  <img src="https://www.themeetingmagazines.com/wp-content/uploads/2018/03/ACF-2018-03Mar-Cyber_Safety__Security-860x418.gif" alt="Cyber Security Banner" />
 </p>
 
 <div align="center">
