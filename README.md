@@ -1,12 +1,16 @@
 <div align="center">
+<h1 align="center">Introduction to Cyber Security</h1>
 
-# 🛡️ Introduction to Cyber Security
+<p align="center">
+  <img src="https://www.itsasap.com/hs-fs/hubfs/cybersecurity%20framework.gif?width=1556&name=cybersecurity%20framework.gif" alt="Cyber Security Banner" width="500"/>
+</p>
+
 
 ### Amateur Level Project
 **By: Yosri Ghorbel**  
 **Weight: 1**
 
-![Cyber Security](https://www.itsasap.com/hs-fs/hubfs/cybersecurity%20framework.gif?width=1556&name=cybersecurity%20framework.gif)
+![Cyber Security](https://hbtn-gallery.s3.eu-central-1.amazonaws.com/CZ2WGOHCYQXCN7LE.png)
 
 </div>
 
